@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Vivek Singh Tomar  
 
-<!--
-**viveksinghh930/viveksinghh930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **MERN Stack Developer** | 🎓 Student @ SSISM  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- ⚛️ React  
+- 🌐 Node.js  
+- 🚂 Express.js  
+- 🍃 MongoDB  
+- ☕ Java  
+- 📜 JavaScript  
+- 🎨 HTML, CSS  
+
+---
+
+## 🎯 About Me  
+🚀 I’m a passionate **Full-Stack Developer** and student at **SSISM College**, currently focusing on **MERN stack development**.  
+💡 I enjoy building **web applications** that solve real-world problems and constantly explore new technologies to sharpen my skills.  
+📚 Along with coding, I’m learning **Java** and improving my problem-solving & project-building skills.  
+🤝 Open to **collaboration, internships, and learning opportunities** to grow as a developer.  
+
+---
+
+## 🌐 Connect with Me  
+📂 Portfolio: [Your Portfolio Link]  
+🔗 LinkedIn: [Your LinkedIn Link]  
+💬 Let’s connect and build impactful projects together!  
